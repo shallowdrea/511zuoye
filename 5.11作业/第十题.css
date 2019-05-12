@@ -1,0 +1,70 @@
+
+.diyizhangtu{
+    margin: 0 auto;
+    height: 0px;
+    width: 0px;
+    border-top:solid  40px blue;
+    border-left: solid 40px yellow;
+    border-right:solid 40px green;
+    border-bottom: solid 40px red;
+}
+.dierzhangtu{
+    margin: 0 auto;
+    margin-top: 30px;
+    height: 0px;
+    width: 0px;
+    border-top:solid  40px blue;
+    border-left: solid 40px transparent;
+    border-right:solid 40px transparent;
+    border-bottom: solid 40px transparent;
+}
+.disanzhangtu{
+    margin: 0 auto;
+    margin-top: 30px;
+    height: 0px;
+    width: 0px;
+    border-top:solid  40px transparent;
+    border-left: solid 40px yellow;
+    border-right:solid 40px transparent;
+    border-bottom: solid 40px transparent;
+}
+.disizhangtu{
+    margin: 0 auto;
+    margin-top: 30px;
+    height: 0px;
+    width: 0px;
+    border-top:solid  40px transparent;
+    border-left: solid 40px transparentw;
+    border-right:solid 40px green;
+    border-bottom: solid 40px transparent;
+}
+.diwuzhangtu{
+    margin: 0 auto;
+    margin-top: 30px;
+    height: 0px;
+    width: 0px;
+    border-top:solid  40px transparent;
+    border-left: solid 40px transparent;
+    border-right:solid 40px transparent;
+    border-bottom: solid 40px red;
+}
+.diliuzhangtu{
+    margin: 0 auto;
+    margin-top: 30px;
+    height: 0px;
+    width: 0px;
+    border-top:solid  40px transparent;
+    border-left: solid 40px red;
+    border-right:solid 40px transparent;
+    border-bottom: solid 40px red;
+}
+.diqizhangtu{
+    margin: 0 auto;
+    margin-top: 30px;
+    height: 0px;
+    width: 0px;
+    border-top:solid  40px transparent;
+    border-left: solid 40px transparent;
+    border-right:solid 40px green;
+    border-bottom: solid 40px green;
+}
